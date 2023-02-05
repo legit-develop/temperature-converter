@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("./media/pexels-brett-sayles-5872386.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
