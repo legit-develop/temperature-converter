@@ -18,7 +18,7 @@ function computeTemp(event) {
       break;
     case "kelvin":
       celsiusEl.value = currentValue - 273.32;
-      fahrenheitEl.value((currentValue - 273.32) * 1.8 + 32);
+      fahrenheitEl.value = (currentValue - 273.32) * 1.8 + 32;
       break;
     default:
       break;
